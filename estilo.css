@@ -6,7 +6,7 @@
 }
 header {
     width: 100%;
-    background-color: #4B0082;
+    background-color: #006482;
     color: #F8EFFF;
     text-align: center;
     padding: 20px 0;
@@ -18,7 +18,7 @@ header {
 }
 .sidebar {
     flex: 1;
-    background-color: #6A0DAD;
+    background-color: #5bbbe0;
     display: flex;
     flex-direction: column;
     padding: 20px;
@@ -33,7 +33,7 @@ header {
     font-weight: bold;
 }
 .sidebar a:hover {
-    background-color: #4B0082;
+    background-color: #51a7b3;
     transition: 0.3s;
 }
 .content {
@@ -48,7 +48,7 @@ header {
 .card {
     width: 300px;
     height: 400px;
-    background-color: #9B30FF;
+    background-color: #4dbbee;
     border: 2px solid #D8BFD8;
     display: flex;
     flex-direction: column;
@@ -58,7 +58,7 @@ header {
     border-radius: 10px;
 }
 .card-title {
-    background-color: #4B0082;
+    background-color: #1990a5;
     color: #F8EFFF;
     padding: 10px;
     height: 40px;
@@ -71,11 +71,11 @@ header {
     flex: 1;
     padding: 20px;
     font-size: 18px;
-    color: #4B0082;
+    color: #f8f6fa;
     font-weight: bold;
 }
 .card-footer {
-    background-color: #4B0082;
+    background-color: #4e94a0;
     color: #F8EFFF;
     padding: 10px;
     height: 30px;
